@@ -1,6 +1,6 @@
 #==========================================
-# @ConfigName        源自墨鱼自用Clash配置文件更改为 (Clash Party / FlyClash 动态注入适配版)
-# @Author            @ddgksf2013 @FLYLoveCode
+# @ConfigName        自用Clash配置文件 (Clash Party / FlyClash 动态注入适配版)
+# @Author            @FLYLoveCode  源作者@ddgksf2013
 # @UpdateTime        2026/05/14
 # @Function          免去手动填写机场链接，自动抓取本地/客户端节点并注入策略组
 #==========================================
